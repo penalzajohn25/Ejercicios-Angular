@@ -1,0 +1,16 @@
+.advertencia{
+    color:#fff;
+    background-color: #ffa500;
+    padding: 10px;
+}
+.aprobado{
+    color:#fff;
+    background-color:#008000;
+    padding: 10px;
+}
+
+.suspenso{
+    color:#fff;
+    background-color: #ff0000;
+    padding: 10px;
+}
